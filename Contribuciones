@@ -1,0 +1,10 @@
+#Como hacer contribuciones
+
+añade tutoriales que no esten presentes actualmente
+añade el tutorial en su categoria
+si la categoria de tu tutorial no existe, sientete libre de crear una nueva entrada en los contenidos
+usa el siguiente formato [Title](link_to_tutorial)
+para tutoriales de multiples partes usa
+    * Title
+        * [Part 1](link_to_part_1)
+        * [Part 2](link_to_part_2)
